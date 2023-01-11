@@ -10,6 +10,7 @@ function App() {
       <TextArea/>
       <Inp/>
       <Select/>
+      <p></p>
     </div>
   );
 }
